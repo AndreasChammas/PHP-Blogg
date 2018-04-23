@@ -43,7 +43,6 @@ $output .="</table>";
 <html lang="sv">
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css" type="text/css">
     <title>Adminsystemet</title>
 </head>
 <body>

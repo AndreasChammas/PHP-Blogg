@@ -8,11 +8,7 @@ if(strcmp($_SERVER['SERVER_NAME'], "localhost") ==0){
     $db   = "blog";       // Databasen vi vill jobba mot
 
 }else{
-    $host = "blog-218682.mysql.binero.se";  // Den server där databasen ligger
-    $user = "218682_uf85641";       // Ditt användarnamn
-    $pwd  = "19980716";       // Ditt lösenord
-    $db   = "218682-blog";       // Databasen vi vill jobba mot
-    # url: https://application-218682.mysql.binero.se
+    
 }
 
 

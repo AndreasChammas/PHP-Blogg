@@ -26,7 +26,6 @@ foreach ($res as $row) {
 <html lang="sv">
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="style.css" type="text/css">
 	<title>Blogg</title>
 </head>
 <body>

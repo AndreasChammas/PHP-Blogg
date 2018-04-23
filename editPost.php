@@ -50,7 +50,7 @@ $output.=<<<EOD
         <input type="hidden" name="active" value="$active">
         <input type="hidden" name="postId" value="$postId">
         <input type="submit" value="$commentButtonName">
-          
+
     </form>
 </div>
 EOD;
@@ -65,7 +65,6 @@ EOD;
 <html lang="sv">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css"     type="text/css">
     <title>Blogg</title>
     </head>
     <body>

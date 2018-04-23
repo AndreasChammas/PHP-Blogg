@@ -67,7 +67,6 @@ EOD;
 <html>
     <head>
          <meta charset="UTF-8">
-        <link rel="stylesheet" href="main.css">
             <title>
                 Blogg
         </title>

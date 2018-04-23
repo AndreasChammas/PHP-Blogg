@@ -21,4 +21,4 @@ $stm->execute(array('title'=>$title, 'content'=>$content,  'postId'=>$postId));
 
 // Skicka vidare till admin.php?postId=X
 header("location: admin.php?&mess=$mess");
-?> 
+?>
