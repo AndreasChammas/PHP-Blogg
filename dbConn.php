@@ -8,7 +8,7 @@ if(strcmp($_SERVER['SERVER_NAME'], "localhost") ==0){
     $db   = "blog";       // Databasen vi vill jobba mot
 
 }else{
-    
+
 }
 
 
