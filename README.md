@@ -1,5 +1,5 @@
-# PHP-Blogg2015
-PHP blogg from 2015
+# PHP-Blogg
+PHP blogg
 
 <h1>Server</h1>
 <p>Eftersom detta är ett lokalt projekt så behövs mamp eller liknande köra applikationen.</p>
