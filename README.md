@@ -2,7 +2,7 @@
 PHP blogg
 
 <h1>Server</h1>
-<p>Eftersom detta är ett lokalt projekt så behövs mamp eller liknande köra applikationen.</p>
+<p>Eftersom detta är ett lokalt projekt så behövs mamp eller liknande för att starta applikationen.</p>
 
 <h1>Databas</h1>
 <p>Skapa en databas och ange den namnet <strong>blog</strong>.</p> 
